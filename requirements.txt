@@ -1,0 +1,6 @@
+streamlit==1.61.1
+altair==5.5.0
+orange3==3.41.0
+pandas==2.2.3
+numpy==2.2.6
+scikit-learn==1.5.2

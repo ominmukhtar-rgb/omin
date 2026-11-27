@@ -3,9 +3,14 @@ name = "blank-app-template"
 version = "0.1.0"
 description = "A simple Streamlit app template."
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.11,<3.14"
 dependencies = [
     "streamlit>=1.61.1",
+    "altair>=5.5.0",
+    "orange3==3.41.0",
+    "pandas==2.2.3",
+    "numpy==2.2.6",
+    "scikit-learn==1.5.2",
 ]
 
 [tool.uv]
